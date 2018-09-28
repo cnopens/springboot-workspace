@@ -28,7 +28,7 @@ public class SpringbootEmailApplication implements CommandLineRunner{
 	public void run(String... args) {
 		try {
 			Email mail = new Email();
-			mail.setEmail(new String[]{"zhangjinmiao@zihexin.com"});
+			mail.setEmail(new String[]{"zhangjinmiao@xxx.com"});
 			mail.setSubject("你个小逗比");
 			mail.setContent("科帮网欢迎您");
 			mail.setTemplate("welcome");

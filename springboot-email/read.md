@@ -17,13 +17,13 @@
 ```
 spring.mail.default-encoding=UTF-8
 # 邮箱服务器地址
-spring.mail.host=10.6.4.78
+spring.mail.host=127.0.0.1
 # 用户名
-spring.mail.username=zhangjinmiao@zihexin.com
+spring.mail.username=
 # 密码
 spring.mail.password=xxxx
 # 邮件发送人
-mail.fromMail.addr=zhangjinmiao@zihexin.com
+mail.fromMail.addr=
 ```
 
 **使用用户名授权码的方式（比如QQ）**

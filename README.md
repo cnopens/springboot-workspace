@@ -1,6 +1,6 @@
 # SpringBoot 学习
 
-记录我的springboot学习之路 ——jimzhang 
+记录我的spring boot学习之路 ——jimzhang 
 
 ## 基础原理
 1、 [核心](https://www.zybuluo.com/javazjm/note/663082)

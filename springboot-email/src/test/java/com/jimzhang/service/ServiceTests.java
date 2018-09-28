@@ -81,7 +81,7 @@ public class ServiceTests extends SpringbootEmailApplicationTests{
     @Test
     public void testSend() throws Exception {
         Email email= new Email();
-        email.setEmail(new String[]{"itzjm@qq.com","zhangjinmiao@zihexin.com"});
+        email.setEmail(new String[]{"itzjm@qq.com","zhangjinmiao@xxx.com"});
         email.setSubject("APP Store 充值卡");
         email.setContent("资和信欢迎您");
         email.setTemplate("welcome");
@@ -101,7 +101,7 @@ public class ServiceTests extends SpringbootEmailApplicationTests{
     public void testSS(){
         try {
             Email mail = new Email();
-            mail.setEmail(new String[]{"zhangjinmiao@zihexin.com"});
+            mail.setEmail(new String[]{"zhangjinmiao@xxx.com"});
             mail.setSubject("你个小逗比");
             mail.setContent("科帮网欢迎您");
             mail.setTemplate("welcome");

@@ -22,8 +22,8 @@ spring:
       one:
         # 数据库配置
         driver-class-name: oracle.jdbc.driver.OracleDriver
-        url: jdbc:oracle:thin:@10.6.10.57:1521/xshdb
-        username: xshmeidian
+        url: jdbc:oracle:thin:@127.0.0.1:1521/xshdb
+        username: zjm
         password: 123456
 
         # Druid 数据源 one 配置，继承spring.datasource.druid.* 配置，相同则覆盖
