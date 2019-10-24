@@ -18,6 +18,8 @@
         <module name="spring-boot-mybatis-xml" />
         <module name="spring-boot-rabbitmq" />
         <module name="spring-boot-redis" />
+        <module name="spring-boot-redis-2" />
+        <module name="spring-boot-redis-2.x" />
         <module name="spring-boot-redis-data-cache" />
         <module name="spring-boot-redis-session" />
         <module name="springboot-async" />
@@ -25,6 +27,8 @@
         <module name="springboot-jdbctemplate-multi-hikariCP" />
         <module name="springboot-mybatis-mysql-write-read" />
         <module name="springboot-redis-1" />
+        <module name="springboot-squirrel-machine" />
+        <module name="springboot-statemachine" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -40,6 +44,8 @@
       <module name="spring-boot-mybatis-xml" target="1.8" />
       <module name="spring-boot-rabbitmq" target="1.8" />
       <module name="spring-boot-redis" target="1.8" />
+      <module name="spring-boot-redis-2" target="1.8" />
+      <module name="spring-boot-redis-2.x" target="1.8" />
       <module name="spring-boot-redis-data-cache" target="1.8" />
       <module name="spring-boot-redis-session" target="1.8" />
       <module name="springboot-async" target="1.8" />
@@ -48,6 +54,8 @@
       <module name="springboot-jdbctemplate-multi-hikariCP" target="1.8" />
       <module name="springboot-mybatis-mysql-write-read" target="1.7" />
       <module name="springboot-redis-1" target="1.8" />
+      <module name="springboot-squirrel-machine" target="1.8" />
+      <module name="springboot-statemachine" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

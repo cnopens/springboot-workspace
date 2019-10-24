@@ -28,6 +28,10 @@
         <option value="$PROJECT_DIR$/springboot-async/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-jdbctemplate/springboot-jdbctemplate-multi-hikariCP/pom.xml" />
         <option value="$PROJECT_DIR$/Springboot-Mybatis-Read-Write-Splitting-master/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-redis/spring-boot-redis-2.x/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-statemachine/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-squirrel-machine/pom.xml" />
       </list>
     </option>
   </component>
