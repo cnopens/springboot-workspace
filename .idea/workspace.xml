@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af6c5d31-cbdc-426d-8c17-a5efba0ea7b3" name="Default" comment="springboot jdbctemplate druid 多数据源 操作">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-dynamic-datasource/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-dynamic-datasource/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-rabbitmq/spring-boot-rabbitmq/spring-boot-rabbitmq.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-rabbitmq/spring-boot-rabbitmq/spring-boot-rabbitmq.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-rabbitmq/spring-boot-rabbitmq/src/main/java/com/neo/rabbit/fanout/FanoutSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-rabbitmq/spring-boot-rabbitmq/src/main/java/com/neo/rabbit/fanout/FanoutSender.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-rabbitmq/spring-boot-rabbitmq/src/main/java/com/neo/rabbit/hello/HelloReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-rabbitmq/spring-boot-rabbitmq/src/main/java/com/neo/rabbit/hello/HelloReceiver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-rabbitmq/spring-boot-rabbitmq/src/main/java/com/neo/rabbit/hello/HelloSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-rabbitmq/spring-boot-rabbitmq/src/main/java/com/neo/rabbit/hello/HelloSender.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-rabbitmq/spring-boot-rabbitmq/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-rabbitmq/spring-boot-rabbitmq/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-rabbitmq/spring-boot-rabbitmq/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-rabbitmq/spring-boot-rabbitmq/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-rabbitmq/spring-boot-rabbitmq/target/classes/com/neo/rabbit/hello/HelloReceiver.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-rabbitmq/spring-boot-rabbitmq/target/classes/com/neo/rabbit/hello/HelloReceiver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-rabbitmq/spring-boot-rabbitmq/target/classes/com/neo/rabbit/hello/HelloSender.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-rabbitmq/spring-boot-rabbitmq/target/classes/com/neo/rabbit/hello/HelloSender.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-redis/spring-boot-redis-data-cache/spring-boot-redis-data-cache.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-redis/spring-boot-redis-data-cache/spring-boot-redis-data-cache.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-redis/spring-boot-redis-session/spring-boot-redis-session.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-redis/spring-boot-redis-session/spring-boot-redis-session.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-swagger1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-swagger1/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,11 +112,11 @@
       <recent name="com.jimzhang.domain" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/springboot-apollo-referce-log/src/main/resources/common" />
       <recent name="$PROJECT_DIR$/springboot-async/src/main/java/com/jimzhang" />
       <recent name="E:\springboot-workspace\springboot-workspace\springboot-jdbctemplate\springboot-jdbctemplate-multi\src\main\resources" />
       <recent name="E:\springboot-workspace\springboot-workspace\springboot-jdbctemplate\springboot-jdbctemplate-multi-druid\src\main\java\com\jimzhang\config" />
-      <recent name="E:\springboot-workspace\springboot-workspace\springboot-jdbctemplate-multi\src\main\resources" />
     </key>
   </component>
   <component name="RunManager" selected="Spring Boot.SpringbootApolloReferceLogApplication">
@@ -506,7 +491,7 @@
       <workItem from="1587639783861" duration="672000" />
       <workItem from="1587902603290" duration="2727000" />
       <workItem from="1587958919765" duration="14562000" />
-      <workItem from="1588228824164" duration="8052000" />
+      <workItem from="1588228824164" duration="8413000" />
     </task>
     <task id="LOCAL-00001" summary="springboot mybatis druid 多数据源">
       <created>1518425033908</created>
