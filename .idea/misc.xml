@@ -32,6 +32,8 @@
         <option value="$PROJECT_DIR$/springboot-redis/spring-boot-redis-2.x/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-statemachine/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-squirrel-machine/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-apollo/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-apollo-referce-log/pom.xml" />
       </list>
     </option>
   </component>

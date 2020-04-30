@@ -16,4 +16,6 @@ public class FanoutSender {
 		this.rabbitTemplate.convertAndSend("fanoutExchange","", context);
 	}
 
+
+
 }
